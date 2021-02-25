@@ -17,6 +17,7 @@
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
+    "netlify-cli": "^3.8.5",
     "react-scripts": "^4.0.2"
   },
   "browserslist": {
