@@ -26,10 +26,9 @@ export function RootPage() {
       </div>
       <div className="has-text-right">
         <Link className="button is-warning" to="/restaurants">
-          全てのラーメン屋を見る
+          全てのラーメン店を見る
         </Link>
       </div>
     </>
   );
 }
-
